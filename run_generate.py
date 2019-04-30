@@ -33,6 +33,3 @@ def clean_title(ptfile, textfile):
         title_list.pop()
         y=b2string.join(title_list)
     return(y)
-
-clean_title("all_titles.pt", "all_titles.txt")
-   
