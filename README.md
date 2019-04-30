@@ -58,4 +58,6 @@ Options:
 -t, --temperature    Temperature (higher is more chaotic)
 --cuda               Use CUDA
 ```
+### Jordan additions
 
+Added run_generate.py and PLOS_bot.py. Run_generate has function clean_title which cleans up generated text to suit scientific title format. PLOS_bot tweets result of run_generate (and generate.py). To generate scientific titles based on PLOS journal corpus, use all_titles.pt and first_words.txt (the full list of titles is too big to upload).
