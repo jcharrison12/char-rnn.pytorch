@@ -1,5 +1,5 @@
 tweepy
-https://download.pytorch.org/whl/cpu/torch-1.0.1-cp37-cp37m-win_amd64.whl
+torch
 nltk
 argparse
 unidecode
